@@ -1,0 +1,10 @@
+GET http://localhost:5000/test
+
+###
+GET http://localhost:5000/user/login
+
+###
+GET http://localhost:5000/user/logout
+
+###
+GET http://localhost:5000/user/signup
